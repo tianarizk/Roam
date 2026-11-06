@@ -1,2 +1,18 @@
 # Roam
-A collaborative travel app where friends create trips, invite members, vote on destinations and activities, build shared itineraries, track expenses and balances, manage packing lists, and save places with photos, links, prices, and notes. Designed with a clean, Pinterest-inspired look and simple navigation.
+
+Roam is a friendly, Pinterest-inspired trip planner for making plans with friends. Create a trip, save destinations, invite your crew, and keep the details together.
+
+## Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+The production site is generated in `dist/`. Trip cards created in the starter app are saved in your browser's local storage.
